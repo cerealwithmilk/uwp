@@ -16,9 +16,14 @@ Just, don't use this method, thank you. You might want to reset your Fiddler Cla
 
 ## Videos/V3rmillion threads using the method
 https://v3rmillion.net/showthread.php?tid=1217923 - original thread made by iiDk
+
 https://v3rmillion.net/showthread.php?tid=1217934 - http debuger by dancing panda xd
 
+
 https://www.youtube.com/watch?v=fnyxRK0fvS4 - 1fo video showing the iiDk method
+
 https://www.youtube.com/watch?v=jq1T3LjpZ1k - moo exploits showing the iiDk method
+
 https://www.youtube.com/watch?v=w1OtCf70P7s - farzad showing the iiDk method
+
 https://www.youtube.com/watch?v=WBh-lBO9o0A - iiDk original method video (oh wow look at that, 2 MONTHS AGO)
