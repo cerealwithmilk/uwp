@@ -1,5 +1,5 @@
 # **[UWP] Roblox Versions Archive**
-Basically an archive for all UWP versions that have been released thru the microsoft store, due to the fact that you are able to use any of this versions to this day that are on the archive, you can use it for many purposes such as older exploit support, evading new features (not corescripts related) and etc.
+Basically an archive for all UWP versions that have been released thru the microsoft store, due to the fact that you are able to use any of this versions to this day that are on the archive, you can use it for many purposes such as making old private servers for Roblox, evading new features (not corescripts related) and etc.
 
 ## How do I use them?
 You **require** a Windows 10+ (build 1809) installation, with the latest Microsoft Store version on it and the [App Installer](https://www.microsoft.com/store/productId/9NBLGGH4NNS1) installed too
